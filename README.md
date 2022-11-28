@@ -19,8 +19,8 @@ C веб-сайта необходимо собрать все объявлен�
 
 ### Выполните следующие действия:
 ```python
-git clone "https://github.com/Nurmurok/parser.git"
-cd parser
+git clone "https://github.com/Nurmurok/Py_parsing.git"
+cd Py_parsing
 python -m venv venv
 .\venv\Scripts\activate 
 pip install -r requirments.txt
